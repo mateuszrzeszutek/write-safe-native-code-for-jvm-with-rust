@@ -1,0 +1,6 @@
+CompileFlags:
+  Add:
+    - -std=c++23
+    - -I/Users/mateusz/.local/share/mise/installs/java/25/include
+    - -I/Users/mateusz/.local/share/mise/installs/java/25/include/darwin
+    - -I/Users/mateusz/.local/share/mise/installs/java/25/include/linux

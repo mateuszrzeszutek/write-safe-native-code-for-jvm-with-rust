@@ -3,6 +3,7 @@
 In this talk we will talk about how to glue JVM with one of my favorite languages as of late, Rust.
 
 We will:
+
 - Compare JNI (Java Native Interface) and the newly added FFM (Foreign Function and Memory) API;
 - Introduce the FFM API;
 - Run native code examples for both;
@@ -13,3 +14,18 @@ All with running code examples and unit tests.
 ## Tags
 
 java, jvm, rust, ffm, jni
+
+## Building slides
+
+```sh
+make install-deps
+make
+```
+
+## Installing necessary tools
+
+Make sure mise is installed (e.g. `brew install mise`, `sudo dnf -y install mise`).
+
+```sh
+mise install
+```

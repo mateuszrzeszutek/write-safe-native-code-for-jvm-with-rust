@@ -1,0 +1,4 @@
+[tools]
+gradle = "9"
+java = "25"
+rust = "latest"
