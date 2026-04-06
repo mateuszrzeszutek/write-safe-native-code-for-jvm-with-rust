@@ -158,7 +158,7 @@ $\rightarrowtail IDE$
 
 ## QR Code
 
-![QR](img/presentation-repo-qr.png)\
+![QR](img/presentation-repo-qr.png){height=75%}\
 
 ::::
 
